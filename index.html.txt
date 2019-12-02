@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="uft-8">
+  <link real="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>IFSP TEC EM REDES DE COMPUTADORES</h1>
+  <img src="imagem.jpg">
+  <h2>Aula 10: SaaA - GitHub</h2>
+  <p style="font-size:80%">Cursos</p>
+  <p style="color:blue">Análise e Desenvolvimento de sistemas</p>
+  <p style="color:blue">Engenharia de Produção</p>
+  <p style="color:blue">Letras</p>
+  <p style="color:blue">Gestão Pública</p>
+  <p style="color:blue">Técnico em redes de computadores</p>
+  <p style="font-size:80%">Eventos</p>
+  <img src="images.jpg">
+  <p style="font-size:80%">Feira de Ciência e tecnologia IFSP</p>
+  <form method="get" action=" http://pt.wikihow.com/P%C3%A1gina-principal"><button type="submit">Página Inicial</button></form>
+  <p style="font-size:80%">IFSP - venha participar de nossos eventos!</p>
+  <p style="color:red">ESTAMOS TE ESPERANDO</p>
+</body>
+</html>
